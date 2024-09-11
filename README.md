@@ -1,2 +1,2 @@
 # website_personal
-personal website 
+resume and personal information website 
